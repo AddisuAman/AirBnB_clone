@@ -63,7 +63,7 @@ class TestUser_instantiation(unittest.TestCase):
     def test_str_representation(self):
         dt = datetime.today()
         dt_repr = repr(dt)
-[O        us = User()
+        us = User()
         us.id = "123456"
         us.created_at = us.updated_at = dt
         usstr = us.__str__()
