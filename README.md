@@ -1,8 +1,8 @@
-Airbnb - The Console
-Command interpreter
-AirBnB_clone
+****Airbnb - The Console****
+**Command interpreter**
+**AirBnB_clone**
 
-Description 🖥️
+**Description 🖥️**
 ALXBnB is a complete web application, integrating database storage, a back-end API, and front-end interfacing in a clone of AirBnB. 
 The project currently only implements the back-end console. Each tasks are linked and will help you to:
 
